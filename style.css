@@ -1,0 +1,160 @@
+.row {
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 20px;
+}
+
+body{ margin-top:20px;}
+.glyphicon { margin-right:5px;}
+.rating .glyphicon {font-size: 22px;}
+.rating-num { margin-top:0px;font-size: 54px; }
+.progress { margin-bottom: 5px;}
+.progress-bar { text-align: left; }
+.rating-desc .col-md-3 {padding-right: 0px;}
+.sr-only { margin-left: 5px;overflow: visible;clip: auto; }
+
+.footer-dark {
+    padding:50px 0;
+    color:#f0f9ff;
+    background-color:#323232;
+  }
+  
+  .footer-dark h3 {
+    margin-top:0;
+    margin-bottom:12px;
+    font-weight:bold;
+    font-size:16px;
+  }
+  
+  .footer-dark ul {
+    padding:0;
+    list-style:none;
+    line-height:1.6;
+    font-size:14px;
+    margin-bottom:0;
+  }
+  
+  .footer-dark ul a {
+    color:inherit;
+    text-decoration:none;
+    opacity:0.6;
+  }
+  
+  .footer-dark ul a:hover {
+    opacity:0.8;
+  }
+
+  .nazevfirmy {
+    padding-left: 600px;
+    padding-top: 50px;
+  }
+
+
+
+  .footer-dark {
+    margin-top: 70px;
+  }
+
+
+  .modal {
+    display: none;
+    position: fixed;
+    z-index: 8;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgb(0, 0, 0);
+    background-color: rgba(0, 0, 0, 0.4);
+  }
+  .modal-content {
+    margin: 50px auto;
+    border: 1px solid #999;
+    width: 60%;
+  }
+  h2,
+  p {
+    margin: 0 0 20px;
+    font-weight: 400;
+    color: #666;
+  }
+  span {
+    color: #666;
+    display: block;
+    padding: 0 0 5px;
+  }
+  form {
+    padding: 25px;
+    margin: 25px;
+    box-shadow: 0 2px 5px #f5f5f5;
+    background: #eee;
+  }
+  input,
+  textarea {
+    width: 90%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #1c87c9;
+    outline: none;
+  }
+  .contact-form button {
+    width: 100%;
+    padding: 10px;
+    border: none;
+    background: #1c87c9;
+    font-size: 16px;
+    font-weight: 400;
+    color: #fff;
+  }
+
+  .close {
+    color: #aaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+  }
+  .close:hover,
+  .close:focus {
+
+    text-decoration: none;
+
+  }
+  button.button {
+    background: none;
+    border-top: none;
+    outline: none;
+    border-right: none;
+    border-left: none;
+    padding: 0 0 3px 0;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  button.button:hover {
+    border-bottom: #a99567 ;
+    color: #a99567;
+    background: none;
+
+  }
+
+
+  .tlacit {
+    border-bottom: #a99567 ;
+    color: #a99567;
+    background: none;
+    border-top: none;
+    outline: none;
+    border-right: none;
+    border-left: none;
+
+    padding: 0 0 3px 0;
+    font-size: 16px;
+    cursor: pointer;
+    margin: 10px;
+  }
+
+
+
+
+
+
